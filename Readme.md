@@ -7,3 +7,7 @@ como não era o intuito da disciplina não finalizamos esta parte.
 Podendo utilizar iniciando diretamente a "home.php"
 
 O banco de dados está incluso ao projeto e deve ser importado com o nome "familia_rolheta".
+
+
+Desenvolvido utilizando html, css, bootstrap, php e sql.
+Plataformas de desenvolvimentos: sublime e xampp
